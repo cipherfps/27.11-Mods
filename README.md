@@ -1,5 +1,5 @@
 # 27.11 Mods (REUPLOAD)
-Collection of Gav's Mods for 27.11 and tutorials for how to use them
+Collection of [Gav's](https://github.com/gavbowersdomain) Mods for 27.11 and tutorials for how to use them
 > Video Tutorial will be linked if a decent one is created
 
 ## HOW TO MOUNT MODS:
