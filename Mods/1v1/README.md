@@ -25,5 +25,5 @@ Add this to DefaultGame.ini
 [AssetHotfix]
 +DataTable=/Game/Characters/Player/DataTables/CharacterAttributesPlayer;RowUpdate;PlayerLoadout_AthenaPlayer;FallingDamageTable;None
 ```
-## Erbium Fork (Magnesium)
+## Erbium Fork
 [> Magnesium <](https://github.com/cipherfps/ATLAS-Link/blob/main/atlas_link_flutter/assets/dlls/Magnesium.dll)
