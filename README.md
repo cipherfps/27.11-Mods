@@ -11,10 +11,10 @@ Collection of gav's mods for 27.11 and how to use them
 ---
 ### Mods
 
-- [Custom Weapons](https://github.com/gavbowersdomain/27.11-Mods/tree/master/Mods/Weapons/)
+- [Custom Weapons](https://github.com/cipherfps/27.11-Mods/tree/main/Mods/Weapons)
 - [1v1 Map](https://github.com/cipherfps/27.11-Mods/tree/main/Mods/1v1)
-- [Low mesh buildings](https://github.com/gavbowersdomain/27.11-Mods/tree/master/Mods/LowMesh/)
-- [Pre S16 Endgame Slowmo](https://github.com/gavbowersdomain/27.11-Mods/tree/master/Mods/Slowmo/27.11)
+- [Low Mesh Buildings](https://github.com/cipherfps/27.11-Mods/tree/main/Mods/LowMesh)
+- [Pre S16 Endgame Slowmo](https://github.com/cipherfps/27.11-Mods/tree/main/Mods/Slowmo)
 
 ## Note
 > The 1v1 map requires a modifed Eribum fork to allow players to join the progress. Also sometimes you cannot damage other players, to fix this just leave and rejoin the server.
