@@ -1,6 +1,6 @@
 # 27.11 Mods (REUPLOAD)
-Collection of gav's mods for 27.11 and how to use them
-> Video tutorial will be linked if a decent one is created
+Collection of Gav's Mods for 27.11 and tutorials for how to use them
+> Video Tutorial will be linked if a decent one is created
 
 ## HOW TO MOUNT MODS:
 1. Download this [Prepatched EXE](https://drive.google.com/file/d/1i9GfLF9GSczymO986tUUYJCuuRKIi0CK/view?usp=drive_link) and place it `Fortnite\FortniteGame\Binaries\Win64`
