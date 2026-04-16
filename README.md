@@ -6,7 +6,7 @@ Collection of gav's mods for 27.11 and how to use them
 1. Download this [(> Prepatched EXE <)](https://drive.google.com/file/d/1i9GfLF9GSczymO986tUUYJCuuRKIi0CK/view?usp=drive_link) and place it `Fortnite\FortniteGame\Binaries\Win64`
 
 2. Place your desired mods in `\Fortnite\FortniteGame\Content\Paks`
->Be sure to include the each pak/utoc/ucas/sig file
+>Be sure to include each pak/utoc/ucas/sig file
 
 ---
 ### Mods
