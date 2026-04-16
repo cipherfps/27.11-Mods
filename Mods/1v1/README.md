@@ -1,6 +1,6 @@
 ## Note
 
-> The 1v1 map requires a [**modified Erbium fork**](https://github.com/gavbowersdomain/Erbium/tree/1v1-Map) to allow players to join in progress.
+> The 1v1 map requires a [**modified Erbium fork**](https://github.com/cipherfps/ATLAS-Link/blob/main/atlas_link_flutter/assets/dlls/Magnesium.dll) to allow players to join in progress.
 >
 > Sometimes you cannot damage other players, to fix this just **leave and rejoin the server**.
 
@@ -25,5 +25,5 @@ Add this to DefaultGame.ini
 [AssetHotfix]
 +DataTable=/Game/Characters/Player/DataTables/CharacterAttributesPlayer;RowUpdate;PlayerLoadout_AthenaPlayer;FallingDamageTable;None
 ```
-## Erbium Fork
-[https://github.com/gavbowersdomain/Erbium/tree/1v1-Map](https://github.com/gavbowersdomain/Erbium/tree/1v1-Map)
+## Erbium Fork (Magnesium)
+[> Magnesium <]([https://github.com/gavbowersdomain/Erbium/tree/1v1-Map](https://github.com/cipherfps/ATLAS-Link/blob/main/atlas_link_flutter/assets/dlls/Magnesium.dll))
